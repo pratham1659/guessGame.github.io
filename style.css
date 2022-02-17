@@ -121,7 +121,7 @@ button:last-child {
 @media (max-width: 768px) {
   main {
     width: 85vw;
-    height: 85vh;
+    height: 90vh;
     text-align: center;
     background-color: var(--background);
     border: solid var(--dark);
